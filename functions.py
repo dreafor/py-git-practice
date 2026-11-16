@@ -1,1 +1,2 @@
-# Здесь будут находиться функции проекта.
+def rectangle_area(width: float, height: float) -> float:
+    return width * height
