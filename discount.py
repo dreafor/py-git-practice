@@ -1,5 +1,5 @@
 def calculate_discount(price, discount):
-    return price * discount / 100
+    return price * discount
 
 
 def final_price(price, discount):
